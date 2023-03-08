@@ -1,0 +1,2 @@
+# Telegram_-Image_Ccrawle
+一个可以从telegram指定频道中获取telegraph图片的功能，本人用它来爬取福利姬的图片（瑟瑟是第一生产力）
